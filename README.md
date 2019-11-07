@@ -50,7 +50,7 @@
  * [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.0) - cross-platform development
  * [Visual Studio](https://visualstudio.microsoft.com) - IDE supported
  * [Visual Studio for MAC](https://visualstudio.microsoft.com/vs/mac/) - IDE supported for MAC
- * [Azure Data Studio](https://visualstudio.microsoft.com/vs/mac/) - The database environment used
+ * [Azure Data Studio](https://visualstudio.microsoft.com/vs/mac/) - The database managed environment tool used
  * [Postman](https://www.getpostman.com) - API development
  
  ## Contributing
