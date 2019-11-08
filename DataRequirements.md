@@ -45,7 +45,9 @@
 
     * For each image stored in each item, we will the image name and link to download the image.
 
-1. We should store information for **SALE ITEM** also. The needed information could be: event name, all basic item's information (name, type, size, color, etc.), timeline (start and end date of sale event), sale amount (percentage of original price per unit), and, finally, quantity condition. Quantity condition means the condition to apply the sale amount. For example, if we have an sale event called "buy one get one free" which will be from 12/1/2019 to 12/6/2019, all sale items of "buy one get one free" will be sale off 50% if they buy two items at a time. Therefore, the system should be able to query all the following information:
+1. We should store information for **SALE ITEM** also. The needed information could be: event name, all basic item's information (name, type, size, color, etc.), timeline (start and end date of sale event), sale amount (percentage of original price per unit), and, finally, quantity condition. Quantity condition means the condition to apply the sale amount. 
+
+For example, if we have an sale event called "buy one get one free" which will be from 12/1/2019 to 12/6/2019, all sale items of "buy one get one free" will be sale off 50% if they buy two items at a time. Therefore, the system should be able to query all the following information:
     * Event: "Buy one get one free"
     * Start Date: 12/1/2019
     * End Date: 12/6/2019
