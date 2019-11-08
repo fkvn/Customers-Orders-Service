@@ -35,25 +35,25 @@
     
     * Each item can have one or more related images. However, each item should have up to only 15 images.
 
-1. Each manufacturer will have name, phone number, and address information.
+    * Each manufacturer will have name, phone number, and address information.
 
-1. Each category should include name and description.
+    * Each category should include name and description.
 
-1. For size, the system should save its name and unit. For example, 8.5 US, or 8 UK.
+    * For size, the system should save its name and unit. For example, 8.5 US, or 8 UK.
 
-1. Each color contains its name only unless we need more information later.
+    * Each color contains its name only unless we need more information later.
 
-1. For each image stored in each item, we will the image name and link to download the image.
+    * For each image stored in each item, we will the image name and link to download the image.
 
 1. We should store information for **SALE ITEM** also. The needed information could be: event name, all basic item's information (name, type, size, color, etc.), timeline (start and end date of sale event), sale amount (percentage of original price per unit), and, finally, quantity condition. Quantity condition means the condition to apply the sale amount. For example, if we have an sale event called "buy one get one free" which will be from 12/1/2019 to 12/6/2019, all sale items of "buy one get one free" will be sale off 50% if they buy two items at a time. Therefore, the system should be able to query all the following information:
-    1. Event: "Buy one get one free"
-    1. Start Date: 12/1/2019
-    1. End Date: 12/6/2019
-    1. Items' list:
+    * Event: "Buy one get one free"
+    * Start Date: 12/1/2019
+    * End Date: 12/6/2019
+    * Items' list:
         * Item 1: name, manufacturer, category, size, color, etc.
         * Item 2: name, manufacturer, category, size, color, etc.
         * .....
-    1. **sale amount: 50** (%)
-    1. **quantity condition: 2**.
+    * **sale amount: 50** (%)
+    * **quantity condition: 2**.
 
 
