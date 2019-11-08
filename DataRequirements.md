@@ -41,7 +41,7 @@
 
 1. For size, the system should save its name and unit. For example, 8.5 US, or 8 UK.
 
-1. Each color could contain its name only unless we need more information later.
+1. Each color contains its name only unless we need more information later.
 
 1. For each image stored in each item, we will the image name and link to download the image.
 
