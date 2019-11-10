@@ -8,7 +8,7 @@
 
 1. Each user will have the following information: Full name, username, password, address, phone, email, payment types. Each user can have multiple addresses and multiple phone numbers.
 
-1. Each user can have many types of payments. Each payment should include its basic information. For instance, type (cash, debit, or credit), card numbers (no need if the payment type is cash).
+1. Each user can have many types of payments. Each payment should include only payment type. For instance, cash, debit, or credit card. At the moment, we don't store any card information, such as card number or security number.
 
 1. There are 4 types of users:
 
