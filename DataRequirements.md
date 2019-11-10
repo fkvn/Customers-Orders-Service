@@ -6,7 +6,10 @@
 
 1. A **User** can add one or more item into a cart before checking out. Each cart belongs to each user.
 
-1. Each user will have the following information: Full name, username, password, address, phone, email, payment types. Each user can have multiple addresses and multiple phone numbers. Multiple users can have the same address, but each phone number only can belong to one user. Users cannot have the same phone number.
+1. Each user will have the following information: Full name, username, password, address, phone, email, payment types. 
+    * Users cannnot have the same username.
+    * Each user can have multiple addresses and multiple phone numbers. 
+    * Multiple users can have the same address, but each phone number only can belong to one user. Users cannot have the same phone number.
 
 1. Each user can have many types of payments. Each payment should include only payment type. For instance, cash, debit, or credit card. At the moment, we don't store any card information, such as card number or security number.
 
