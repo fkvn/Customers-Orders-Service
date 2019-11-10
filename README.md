@@ -1,8 +1,8 @@
-# Business_Store_Management
+# Customers-Orders-System
  
- This project implements a web application to support managing a business store
+ This project implements a web API to support Customers-Orders-System
  
- The goal of the project is to develop a web-based system to facilitate the management process for a small-medium business.
+ The goal of the project is to develop a server-side API services to facilitate the management process for a small-medium business.
  
  ## Getting Started
  
