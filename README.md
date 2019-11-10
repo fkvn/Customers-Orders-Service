@@ -11,7 +11,7 @@
  The main purpose is for practicing a real project by using ASP.NET Core as Backend technique.
  
  * [Data Requirements](/DataRequirements.md)
- * [Data Modeling with Relational Databases]
+ * [Data Modeling with Relational Databases](/ER-Diagram.md)
  
  ### Prerequisites
  
