@@ -1,8 +1,6 @@
-# Customers-Orders-System
+# Customers-Orders System
  
- This project implements a web API services to support Customers-Orders-System
- 
- The goal of the project is to develop a server-side API services to facilitate the management process for a small-medium business.
+ The goal of the project is implements a web API services and application (with UI) to support the management process for a small-medium business.
  
  ## Getting Started
  
