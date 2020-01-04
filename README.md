@@ -16,7 +16,7 @@
  * ASP.NET Core: cross-platform development
  * .NET Core SDK: latest version 
  * IDE: Visual Studio 2019 Community or Visual Studio for Mac.
- * Database: MySQL 8 
+ * Database: PostgreSQL
  * Database Management Tools: Microsoft SQL Server Management Studio or Azure Data Studio (required Docker)
  
  ### Installing
